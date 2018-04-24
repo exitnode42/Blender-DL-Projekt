@@ -1,11 +1,11 @@
-ï»¿###########GTA-SA-MOD: EMSKIRCHEN -Drachenlord -##############################
+###########GTA-SA-MOD: EMSKIRCHEN -Drachenlord -##############################
 ###########Proudly presented by exitnode42/anon###############################
 Hallo alle zusammen,
 
-hier kÃ¶nntet ihr euch einen Ãœberblick Ã¼ber die aktuelle Entwicklungsphase zu
+hier könntet ihr euch einen Überblick über die aktuelle Entwicklungsphase zu
 GTA - San Andreas Mod "GTA : Emskirchen" machen.
-Ich werde demnÃ¤chst eine vollstÃ¤ndige Liste mit allen Tools/Programmen
-verÃ¶ffentlichen die gebraucht wird.
+Ich werde demnächst eine vollständige Liste mit allen Tools/Programmen
+veröffentlichen die gebraucht wird.
 
 MfG
 exitnode42/Anon
