@@ -4,14 +4,15 @@
 
 Hallo alle zusammen,
 
-hier könntet ihr euch einen Überblick über die aktuelle Entwicklungsphase zu
+hier kÃ¶nntet ihr euch einen Ãœberblick Ã¼ber die aktuelle Entwicklungsphase zu
 GTA - San Andreas Mod "GTA : Emskirchen" machen.
-Ich werde demnächst eine vollständige Liste mit allen Tools/Programmen
-veröffentlichen die gebraucht wird.
+Ich werde demnÃ¤chst eine vollstÃ¤ndige Liste mit allen Tools/Programmen
+verÃ¶ffentlichen die gebraucht wird.
 
 MfG
 exitnode42/Anon
-
+Wegen Creative Commons:
+The pottelerler/RBS oder MrMacMana bitte melden! 
 
 ###########LueLueLueLueLueLueLue##############################################
 
