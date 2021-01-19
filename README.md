@@ -7,7 +7,7 @@ Hallo alle zusammen,
 hier könntet ihr euch einen Überblick über die aktuelle Entwicklungsphase zu
 GTA - San Andreas Mod "GTA : Emskirchen" machen.
 Ich werde demnächst eine vollständige Liste mit allen Tools/Programmen
-veröffentlichen die gebraucht wird.
+veröffentlichen die gebraucht werden.
 
 MfG
 exitnode42/Anon
